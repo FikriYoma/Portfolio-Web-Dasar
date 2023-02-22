@@ -1,0 +1,3 @@
+Fungsi myFunction menggunakan metode document.getElementById("myDropdown") untuk memilih elemen HTML dengan id "myDropdown". Kemudian menggunakan properti classList.toggle("show") untuk menambah atau menghapus nama kelas yang disebut "show” dari elemen itu. Ini dapat digunakan untuk membuat menu tarik-turun yang ditampilkan atau disembunyikan saat kita mengklik tombol.
+
+Event handler untuk window.onclick adalah fungsi yang berjalan setiap kali Anda mengklik di manapun pada jendela. Ini memeriksa apakah Anda mengklik elemen dengan nama kelas "dropbtn". Jika tidak, ia mengulang semua elemen dengan nama kelas "dropdown-content" dan menghapus nama kelas "show" darinya. Ini dapat digunakan untuk menutup menu dropdown yang terbuka saat Anda mengklik di luarnya.
